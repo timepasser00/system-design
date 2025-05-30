@@ -4,4 +4,4 @@ My personal notes and understanding of key system design concepts and patterns.
 
 ## Contents
 
--[Raodmap] (system-design.pdf)
+-[Raodmap](./system-design.pdf)
