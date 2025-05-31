@@ -1,6 +1,10 @@
 # system-design
 My personal notes and understanding of key system design concepts and patterns.
 
+## Goal
+
+To create a short, crisp, and organized knowledge base on system design.
+
 
 ## Contents
 
